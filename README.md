@@ -45,6 +45,7 @@ Object-Oriented Programming using Java Programming Language
                                   0  
 
 ✅ Pattern 04 Using For Loop
+
                                   .  
                                   . .  
                                   . . .  
