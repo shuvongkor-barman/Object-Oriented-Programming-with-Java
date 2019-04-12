@@ -26,12 +26,14 @@ Object-Oriented Programming using Java Programming Language
 ✅ Swaping Method 02
 
 ✅ Pattern 01 Using For Loop
+
                                   0 0 0 0  
                                   0 0 0 0  
                                   0 0 0 0  
                                   0 0 0 0
 
 ✅ Pattern 02 Using For Loop
+
                                   0  
                                   0 0  
                                   0 0 0  
@@ -39,6 +41,7 @@ Object-Oriented Programming using Java Programming Language
 
 
 ✅ Pattern 03 Using For Loop
+
                                   0 0 0 0  
                                   0 0 0  
                                   0 0  
@@ -52,12 +55,14 @@ Object-Oriented Programming using Java Programming Language
                                   . . . .
 
 ✅ Pattern 05 Using For Loop
+
                                   * 
                                   0 * 
                                   0 0 * 
                                   0 0 0 * 
 
 ✅ Pattern 06 Using For Loop
+
                                   0 1 2 3  
                                   0 1 2 3  
                                   0 1 2 3  
